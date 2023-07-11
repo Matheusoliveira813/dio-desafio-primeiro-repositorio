@@ -2,7 +2,7 @@
 
 *O Git Bahs é um terminal estendido para otmizar o uso do git.
 
-## *Passo a passo para subir um git :footprints:
+## Passo a passo para subir um git :footprints:
 
 1° Para um arquivo não adicionado use o comando = git add .
 
