@@ -10,4 +10,7 @@
 
 3° Agora use o comando = git push origin main 
 
+-No caso de ser a primeira vez subindo um arquivo use o comando = git remote add origin + "URL do seu diretorio no github"-
+
 Pronto o seu git ja deve estar funcionando no seu github
+
